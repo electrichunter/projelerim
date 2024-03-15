@@ -1,0 +1,6 @@
+C:\Users\ouysa\source\repos\izin takip app\izin takip app\obj\Debug\izin takip app.csproj.AssemblyReference.cache
+C:\Users\ouysa\source\repos\izin takip app\izin takip app\obj\Debug\izin_takip_app.Form1.resources
+C:\Users\ouysa\source\repos\izin takip app\izin takip app\obj\Debug\izin_takip_app.per_kayıt.resources
+C:\Users\ouysa\source\repos\izin takip app\izin takip app\obj\Debug\izin_takip_app.Properties.Resources.resources
+C:\Users\ouysa\source\repos\izin takip app\izin takip app\obj\Debug\izin takip app.csproj.GenerateResource.cache
+C:\Users\ouysa\source\repos\izin takip app\izin takip app\obj\Debug\izin takip app.csproj.CoreCompileInputs.cache

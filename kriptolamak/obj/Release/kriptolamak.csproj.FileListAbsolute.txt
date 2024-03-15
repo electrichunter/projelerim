@@ -1,0 +1,11 @@
+C:\Users\ouysa\source\repos\kriptolamak\bin\Release\kriptolamak.exe.config
+C:\Users\ouysa\source\repos\kriptolamak\bin\Release\kriptolamak.exe
+C:\Users\ouysa\source\repos\kriptolamak\bin\Release\kriptolamak.pdb
+C:\Users\ouysa\source\repos\kriptolamak\obj\Release\kriptolamak.csproj.AssemblyReference.cache
+C:\Users\ouysa\source\repos\kriptolamak\obj\Release\kriptolamak.Form1.resources
+C:\Users\ouysa\source\repos\kriptolamak\obj\Release\kriptolamak.Properties.Resources.resources
+C:\Users\ouysa\source\repos\kriptolamak\obj\Release\kriptolamak.şifrele.resources
+C:\Users\ouysa\source\repos\kriptolamak\obj\Release\kriptolamak.csproj.GenerateResource.cache
+C:\Users\ouysa\source\repos\kriptolamak\obj\Release\kriptolamak.csproj.CoreCompileInputs.cache
+C:\Users\ouysa\source\repos\kriptolamak\obj\Release\kriptolamak.exe
+C:\Users\ouysa\source\repos\kriptolamak\obj\Release\kriptolamak.pdb

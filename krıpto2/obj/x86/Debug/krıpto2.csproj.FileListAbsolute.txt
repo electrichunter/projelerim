@@ -1,0 +1,11 @@
+C:\Users\ouysa\source\repos\krıpto2\bin\x86\Debug\krıpto2.exe.config
+C:\Users\ouysa\source\repos\krıpto2\bin\x86\Debug\krıpto2.exe
+C:\Users\ouysa\source\repos\krıpto2\bin\x86\Debug\krıpto2.pdb
+C:\Users\ouysa\source\repos\krıpto2\obj\x86\Debug\krıpto2.csproj.AssemblyReference.cache
+C:\Users\ouysa\source\repos\krıpto2\obj\x86\Debug\krıpto2.Form1.resources
+C:\Users\ouysa\source\repos\krıpto2\obj\x86\Debug\krıpto2.Properties.Resources.resources
+C:\Users\ouysa\source\repos\krıpto2\obj\x86\Debug\krıpto2.csproj.GenerateResource.cache
+C:\Users\ouysa\source\repos\krıpto2\obj\x86\Debug\krıpto2.csproj.CoreCompileInputs.cache
+C:\Users\ouysa\source\repos\krıpto2\obj\x86\Debug\krıpto2.exe
+C:\Users\ouysa\source\repos\krıpto2\obj\x86\Debug\krıpto2.pdb
+C:\Users\ouysa\source\repos\krıpto2\obj\x86\Debug\krıpto2.Form2.resources
